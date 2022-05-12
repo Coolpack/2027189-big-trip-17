@@ -1,6 +1,8 @@
 import FiltersView from './view/filters-view.js';
 import SortView from './view/sort-view.js';
+// eslint-disable-next-line
 import ListEmptyMessageView from './view/list-empty-message-view.js';
+// eslint-disable-next-line
 import LoadingMessageView from './view/loading-message-view.js';
 import EventView from './view/event-view.js';
 import EventFormView from './view/event-form-view.js';
